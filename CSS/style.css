@@ -1,0 +1,19 @@
+/* Header, footer */
+
+ footer {
+  background: linear-gradient(to bottom, #ff0000 31%, #66ff33 100%);
+}
+a{
+  background-color: rgb(255, 255, 0)
+}
+main{
+   background: linear-gradient(to top, #ff0000 0%, #3333cc 78%);
+}
+header {
+  background: linear-gradient(to bottom left, #00ff00 0%, #000099 78%);
+}
+
+button {
+    background: linear-gradient(to bottom, #ffffff 0%, #00ff00 75%);
+
+}
